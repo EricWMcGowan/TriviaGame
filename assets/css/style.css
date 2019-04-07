@@ -1,0 +1,8 @@
+body {
+    background-image: url("../images/underwater.jpg")
+}
+
+.pageContent {
+    margin: auto;
+    text-align: center;
+}
